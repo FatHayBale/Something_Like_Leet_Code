@@ -1,0 +1,24 @@
+{
+    "cases": [
+        {
+            "input": 2,
+            "answer": true
+        },
+        {
+            "input": 3,
+            "answer": false
+        },
+        {
+            "input": 10,
+            "answer": true
+        },
+        {
+            "input": 7,
+            "answer": false
+        },
+        {
+            "input": 100,
+            "answer": true
+        }
+    ]
+}

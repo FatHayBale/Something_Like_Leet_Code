@@ -1,0 +1,24 @@
+{
+    "cases": [
+        {
+            "input": 2000,
+            "answer": true
+        },
+        {
+            "input": 1900,
+            "answer": false
+        },
+        {
+            "input": 2024,
+            "answer": true
+        },
+        {
+            "input": 2023,
+            "answer": false
+        },
+        {
+            "input": 1600,
+            "answer": true
+        }
+    ]
+}

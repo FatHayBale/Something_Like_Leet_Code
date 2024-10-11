@@ -1,0 +1,36 @@
+{
+    "cases": [
+        {
+            "input": ["listen", "silent"],
+            "answer": true
+        },
+        {
+            "input": ["triangle", "integral"],
+            "answer": true
+        },
+        {
+            "input": ["apple", "pale"],
+            "answer": false
+        },
+        {
+            "input": ["Dormitory", "Dirty Room"],
+            "answer": true
+        },
+        {
+            "input": ["The Eyes", "They See"],
+            "answer": true
+        },
+        {
+            "input": ["Hello", "World"],
+            "answer": false
+        },
+        {
+            "input": ["anagram", "nagaram"],
+            "answer": true
+        },
+        {
+            "input": ["King Of The Pirates", "Monkey D. Luffy"],
+            "answer": false
+        }
+    ]
+}
